@@ -1,6 +1,6 @@
 # Privacy Policy for Sonobender
 
-**Last Updated: December 2025**
+**Last Updated: December 2024**
 
 ## Overview
 
@@ -72,8 +72,8 @@ We may update this Privacy Policy. We will notify you of any changes by posting 
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: [min4034415@gmail.com]
+**Email**: [your-email@example.com]
 
 ---
 
-*This privacy policy is effective as of December 2025.*
+*This privacy policy is effective as of December 2024.*
