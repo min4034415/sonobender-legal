@@ -1,6 +1,6 @@
 # Terms of Service for Sonobender
 
-**Last Updated: December 2024**
+**Last Updated: December 2025**
 
 ## Agreement to Terms
 
@@ -70,8 +70,8 @@ These Terms shall be governed by and construed in accordance with the laws of [Y
 
 For questions about these Terms, please contact us at:
 
-**Email**: [your-email@example.com]
+**Email**: [min4034415@gmail.com]
 
 ---
 
-*These terms are effective as of December 2024.*
+*These terms are effective as of December 2025.*
